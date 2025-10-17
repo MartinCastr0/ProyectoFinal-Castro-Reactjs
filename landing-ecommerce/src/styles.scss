@@ -1,0 +1,24 @@
+:root{
+  --primary:#0d6efd;
+  --accent:#ff7a00;
+  --bg:#f6f7fb;
+  --card:#ffffff;
+  --text:#172033;
+}
+.font-sans{font-family:Inter, system-ui, Arial, sans-serif}
+body{background:var(--bg);color:var(--text);margin:0}
+.app main{padding:1rem}
+.navbar{background:white;padding:0.5rem 1rem;display:flex;align-items:center;justify-content:space-between;box-shadow:0 2px 4px rgba(0,0,0,0.06)}
+.container{max-width:1000px;margin:0 auto}
+.logo{font-weight:700}
+.item-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:1rem}
+.card{background:white;padding:1rem;border-radius:8px;box-shadow:0 1px 6px rgba(0,0,0,0.08);text-align:center}
+.card img{height:140px;object-fit:cover;margin-bottom:8px}
+.btn{background:var(--primary);color:#fff;border:none;padding:0.5rem 0.75rem;border-radius:6px;cursor:pointer}
+.cart-widget{display:flex;align-items:center;gap:0.5rem}
+.loader{text-align:center;padding:2rem}
+
+.hero{background:linear-gradient(90deg,#0d6efd20,#6f42c120);padding:2rem 0;margin-bottom:1rem}
+.hero .lead{margin-top:0.5rem;color:#333}
+
+.navbar img{vertical-align:middle}

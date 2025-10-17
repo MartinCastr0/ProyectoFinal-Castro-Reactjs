@@ -1,0 +1,24 @@
+{
+  "name": "landing-ecommerce",
+  "version": "1.0.0",
+  "description": "Proyecto Final - TodoPadel (Martin Castro)",
+  "author": "Martin Castro",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "import:products": "node ./scripts/import_products.js serviceAccountKey.json firestore_products_import.json",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^9.23.0",
+    "firebase-admin": "^13.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.1"
+  },
+  "devDependencies": {
+    "sass": "^1.72.0",
+    "vite": "^5.0.0"
+  }
+}
