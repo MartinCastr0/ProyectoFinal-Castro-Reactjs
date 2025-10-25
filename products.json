@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "PALA NOX AT GENIUS ARENA",
+        "price": 229990,
+        "category": "paletas",
+        "stock": 5,
+        "description": "La pala NOX AT GENIUS ARENA 2023 es el arma perfecta para jugadores que buscan un control excepcional sin renunciar a la potencia.",
+        "image": "https://www.tiendadepadel.com.ar/cdn/shop/files/AT-Genius-Arena-3_571x571.jpg?v=1695905117",
+        "brand": "NOX"
+    },
+    {
+        "id": "2",
+        "title": "PALA BULLPADEL VERTEX 03 CTR 2023",
+        "price": 299990,
+        "category": "paletas",
+        "stock": 3,
+        "description": "La pala Vertex 03 CTR 2023 es la evolución perfecta para jugadores que buscan el máximo control con un toque de potencia.",
+        "image": "https://www.tiendadepadel.com.ar/cdn/shop/files/VERTEX-03-CTR-2023_571x571.jpg?v=1695907246",
+        "brand": "Bullpadel"
+    },
+    {
+        "id": "3",
+        "title": "PALA HEAD DELTA ELITE 2023",
+        "price": 259990,
+        "category": "paletas",
+        "stock": 4,
+        "description": "La HEAD Delta Elite 2023 es una pala de alto rendimiento que combina potencia y control. Perfecta para jugadores de nivel avanzado.",
+        "image": "https://www.tiendadepadel.com.ar/cdn/shop/files/delta_elite_BN_571x571.jpg?v=1695907537",
+        "brand": "HEAD"
+    }
+]

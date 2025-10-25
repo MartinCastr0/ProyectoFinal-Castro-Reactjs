@@ -1,0 +1,104 @@
+[
+    {
+      "id": "1",
+      "title": "Paleta Siux Diablo Revolution 2.0",
+      "price": 229990,
+      "category": "paletas",
+      "stock": 5,
+      "description": "La Siux Diablo Revolution 2.0 es una pala de potencia que destaca por su precisión en el juego. Forma diamante. Nivel avanzado.",
+      "image": "https://www.tiendadepadel.com.ar/cdn/shop/files/Diablo_revolution_B_570x.jpg?v=1695896109",
+      "brand": "Siux"
+    },
+    {
+      "id": "2",
+      "title": "Paleta NOX AT10 Pro Cup",
+      "price": 249990,
+      "category": "paletas",
+      "stock": 3,
+      "description": "La NOX AT10 Pro Cup 2023 es la pala desarrollada para Agustín Tapia. Forma diamante. Control y potencia equilibrados.",
+      "image": "https://www.tiendadepadel.com.ar/cdn/shop/files/AT10_pro_cup_23_B_570x.jpg?v=1695895793",
+      "brand": "NOX"
+    },
+    {
+      "id": "3",
+      "title": "Paleta HEAD Delta Pro",
+      "price": 189990,
+      "category": "paletas",
+      "stock": 4,
+      "description": "La HEAD Delta Pro es una pala polivalente ideal para jugadores de nivel intermedio-avanzado. Forma redonda oversize.",
+      "image": "https://www.tiendadepadel.com.ar/cdn/shop/files/Delta_pro_B_570x.jpg?v=1695896285",
+      "brand": "HEAD"
+    },
+    {
+      "id": "4",
+      "title": "Paleta ADIDAS METALBONE 3.2",
+      "price": 279990,
+      "category": "paletas",
+      "stock": 6,
+      "description": "La ADIDAS METALBONE 3.2 es una pala de máxima potencia. Forma diamante. Para jugadores de nivel avanzado.",
+      "image": "https://www.tiendadepadel.com.ar/cdn/shop/files/Metalbone_3_2_2023_B_570x.jpg?v=1695896841",
+      "brand": "ADIDAS"
+    },
+    {
+      "id": "5",
+      "title": "Paleta BULLPADEL VERTEX 03 23",
+      "price": 259990,
+      "category": "paletas",
+      "stock": 3,
+      "description": "La BULLPADEL VERTEX 03 2023 es una pala de alta gama con un equilibrio perfecto entre potencia y control.",
+      "image": "https://www.tiendadepadel.com.ar/cdn/shop/files/Vertex_03_23_W_B_570x.jpg?v=1695895858",
+      "brand": "BULLPADEL"
+    },
+    {
+      "id": "6",
+      "title": "Overgrip Tourna Grip Original x3",
+      "price": 9990,
+      "category": "accesorios",
+      "stock": 20,
+      "description": "Pack de 3 overgrips Tourna Grip Original, el preferido por los profesionales. Máxima absorción.",
+      "image": "https://www.tiendadepadel.com.ar/cdn/shop/products/overgrip_tourna_570x.jpg?v=1684847305",
+      "brand": "Tourna"
+    },
+    {
+      "id": "7",
+      "title": "Protector Head Radical Transparente",
+      "price": 4990,
+      "category": "accesorios",
+      "stock": 15,
+      "description": "Protector transparente HEAD para pala de pádel. Protege el marco de golpes y rozaduras.",
+      "image": "https://www.tiendadepadel.com.ar/cdn/shop/products/protector_head_570x.jpg?v=1684847312",
+      "brand": "HEAD"
+    },
+    {
+      "id": "8",
+      "title": "Paletero NOX Street Blue",
+      "price": 79990,
+      "category": "accesorios",
+      "stock": 8,
+      "description": "Paletero NOX Street Blue con capacidad para 2-3 palas, zapatillas y accesorios. Diseño moderno y funcional.",
+      "image": "https://www.tiendadepadel.com.ar/cdn/shop/files/paletero-nox-street_570x.jpg?v=1695896445",
+      "brand": "NOX"
+    },
+    {
+      "id": "9",
+      "title": "Tubo de Pelotas HEAD Padel Pro",
+      "price": 14990,
+      "category": "accesorios",
+      "stock": 30,
+      "description": "Tubo con 3 pelotas HEAD Padel Pro. Bote y durabilidad superiores. Aprobadas por la FIP.",
+      "image": "https://www.tiendadepadel.com.ar/cdn/shop/products/pelotas_head_pro_570x.jpg?v=1684847309",
+      "brand": "HEAD"
+    },
+    {
+      "id": "10",
+      "title": "Muñequeras ADIDAS Large",
+      "price": 7990,
+      "category": "accesorios",
+      "stock": 25,
+      "description": "Par de muñequeras ADIDAS Large. Máxima absorción del sudor y comodidad.",
+      "image": "https://www.tiendadepadel.com.ar/cdn/shop/products/munequeras_adidas_570x.jpg?v=1684847307",
+      "brand": "ADIDAS"
+    }
+  ]
+}
+]
